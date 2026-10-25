@@ -1,0 +1,4 @@
+node_modules/
+.env
+dist/
+cold-call-transcripts-100/
